@@ -190,12 +190,14 @@
       "extraLabel": "MACRO"
     },
     {
-      "keyCode": 2084,
-      "label": "&"
+      "keyCode": 53865,
+      "label": "-> CM",
+      "extraLabel": "MACRO"
     },
     {
-      "keyCode": 2085,
-      "label": "*"
+      "keyCode": 53853,
+      "label": "` CMS",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 53859,
