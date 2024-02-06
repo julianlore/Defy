@@ -426,10 +426,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 54109,
+      "label": "PAIR.",
+      "extraLabel": "BLUET."
     },
     {
       "keyCode": 65535,
@@ -543,7 +542,7 @@
     15,
     15,
     15,
-    15,
+    6,
     6,
     6,
     6,
