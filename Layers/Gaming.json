@@ -432,8 +432,8 @@
       "verbose": "Left Control"
     },
     {
-      "keyCode": 59,
-      "label": "F2"
+      "keyCode": 113,
+      "label": "F22"
     },
     {
       "keyCode": 65535,

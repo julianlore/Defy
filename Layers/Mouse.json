@@ -422,8 +422,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 59,
-      "label": "F2"
+      "keyCode": 113,
+      "label": "F22"
     },
     {
       "keyCode": 17451,
@@ -441,8 +441,8 @@
       "extraLabel": "M.Btn"
     },
     {
-      "keyCode": 49740,
-      "label": "F2",
+      "keyCode": 49794,
+      "label": "F22",
       "extraLabel": "ALT/"
     },
     {
@@ -451,8 +451,8 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 59,
-      "label": "F2"
+      "keyCode": 113,
+      "label": "F22"
     },
     {
       "keyCode": 65535,
@@ -466,8 +466,8 @@
       "extraLabel": "BLUET."
     },
     {
-      "keyCode": 59,
-      "label": "F2"
+      "keyCode": 113,
+      "label": "F22"
     },
     {
       "keyCode": 17492,
@@ -493,8 +493,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 59,
-      "label": "F2"
+      "keyCode": 113,
+      "label": "F22"
     },
     {
       "keyCode": 54108,
