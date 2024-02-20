@@ -564,7 +564,7 @@
     },
     {
       "command": "idleleds.time_limit",
-      "data": "300"
+      "data": "0"
     },
     {
       "command": "idleleds.wireless",
