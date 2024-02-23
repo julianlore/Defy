@@ -194,10 +194,26 @@
       "verbose": "Transparent"
     },
     {
+      "keyCode": 53871,
+      "label": "SupW ",
+      "extraLabel": "MACRO"
+    },
+    {
       "keyCode": 65535,
       "label": "",
       "extraLabel": "TRANS",
       "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 53867,
+      "label": "SupT ",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 65535,
@@ -224,10 +240,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 2310,
+      "label": "C",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 65535,
@@ -248,28 +263,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 2329,
+      "label": "V",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 65535,
@@ -369,10 +365,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53862,
+      "label": "Alt+F",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 65535,
@@ -387,22 +382,19 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53868,
+      "label": "SupC ",
+      "extraLabel": "MACRO"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53869,
+      "label": "SupV ",
+      "extraLabel": "MACRO"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53870,
+      "label": "SupB ",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 65535,
@@ -570,10 +562,10 @@
     4,
     15,
     15,
+    5,
     15,
     15,
-    15,
-    15,
+    5,
     15,
     15,
     15,
@@ -582,12 +574,12 @@
     1,
     10,
     15,
+    11,
     15,
     15,
-    15,
-    15,
-    15,
-    15,
+    5,
+    5,
+    5,
     15,
     15,
     15,
@@ -604,11 +596,11 @@
     15,
     15,
     15,
+    5,
     15,
     15,
     15,
-    15,
-    15,
+    5,
     15,
     15,
     15,

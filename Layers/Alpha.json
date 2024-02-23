@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Shortcuts"
     },
     {
       "id": 6,
@@ -165,9 +165,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 842,
-      "label": "HOME",
-      "extraLabel": "C+A+"
+      "keyCode": 53866,
+      "label": "Ctrl+",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 28,
@@ -384,8 +384,14 @@
     },
     {
       "keyCode": 17154,
-      "label": "TOGGLE",
-      "extraLabel": "LED"
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Toggle"
     },
     {
       "keyCode": 41,
