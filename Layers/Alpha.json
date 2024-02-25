@@ -359,8 +359,9 @@
       "extraLabel": "L#3/"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
+      "keyCode": 51774,
+      "label": "SPACE",
+      "extraLabel": "L#3/"
     },
     {
       "keyCode": 17451,
