@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Shortcuts"
     },
     {
       "id": 6,
@@ -312,16 +312,8 @@
       "verbose": "Left Control"
     },
     {
-      "keyCode": 224,
-      "label": "CTRL",
-      "extraLabel": "LEFT",
-      "verbose": "Left Control"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 29,
+      "label": "Z"
     },
     {
       "keyCode": 27,
@@ -334,6 +326,10 @@
     {
       "keyCode": 25,
       "label": "V"
+    },
+    {
+      "keyCode": 5,
+      "label": "B"
     },
     {
       "keyCode": 65535,
@@ -507,11 +503,11 @@
     0,
     6,
     7,
-    7,
-    15,
+    0,
     10,
-    4,
+    13,
     2,
+    5,
     11,
     13,
     1,
