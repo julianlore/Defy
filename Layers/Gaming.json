@@ -397,9 +397,10 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 44,
@@ -416,16 +417,13 @@
       "label": "TAB"
     },
     {
-      "keyCode": 224,
-      "label": "CTRL",
-      "extraLabel": "LEFT",
-      "verbose": "Left Control"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
-      "keyCode": 224,
-      "label": "CTRL",
-      "extraLabel": "LEFT",
-      "verbose": "Left Control"
+      "keyCode": 113,
+      "label": "F22"
     },
     {
       "keyCode": 113,
@@ -509,12 +507,12 @@
     2,
     5,
     11,
-    13,
+    7,
     1,
     5,
     8,
-    7,
-    7,
+    13,
+    10,
     10,
     15,
     15,
