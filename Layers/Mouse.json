@@ -504,10 +504,8 @@
       "extraLabel": "LOCK"
     },
     {
-      "keyCode": 224,
-      "label": "CTRL",
-      "extraLabel": "LEFT",
-      "verbose": "Left Control"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 65535,

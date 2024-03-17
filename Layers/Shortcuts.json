@@ -278,29 +278,24 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 30,
+      "label": "1"
     },
     {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
+      "keyCode": 31,
+      "label": "2"
     },
     {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
+      "keyCode": 32,
+      "label": "3"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
+      "keyCode": 33,
+      "label": "4"
     },
     {
-      "keyCode": 113,
-      "label": "F22"
+      "keyCode": 34,
+      "label": "5"
     },
     {
       "keyCode": 65535,
@@ -327,34 +322,24 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 35,
+      "label": "6"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 36,
+      "label": "7"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 37,
+      "label": "8"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 38,
+      "label": "9"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 39,
+      "label": "0"
     },
     {
       "keyCode": 65535,
@@ -514,10 +499,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 65535,
@@ -532,10 +517,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
     },
     {
       "keyCode": 65535,
@@ -566,11 +550,11 @@
     5,
     15,
     15,
-    15,
-    7,
     2,
-    1,
-    10,
+    2,
+    2,
+    2,
+    2,
     15,
     11,
     15,
@@ -601,6 +585,11 @@
     5,
     15,
     15,
+    2,
+    2,
+    2,
+    2,
+    2,
     15,
     15,
     15,
@@ -610,15 +599,10 @@
     15,
     15,
     15,
+    5,
     15,
     15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
-    15,
+    2,
     15,
     15,
     14,

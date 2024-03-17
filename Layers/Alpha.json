@@ -224,9 +224,8 @@
       "label": "G"
     },
     {
-      "keyCode": 53853,
-      "label": "` CMS",
-      "extraLabel": "MACRO"
+      "keyCode": 105,
+      "label": "F14"
     },
     {
       "keyCode": 0,
