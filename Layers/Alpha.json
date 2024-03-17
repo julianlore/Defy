@@ -412,9 +412,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 17454,
+      "keyCode": 49165,
       "label": "5",
-      "extraLabel": "SHIFT"
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 42,
@@ -422,9 +422,9 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 17493,
-      "label": "2",
-      "extraLabel": "LOCK"
+      "keyCode": 49165,
+      "label": "5",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 50781,
