@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "L9"
+      "name": "Mirror"
     },
     {
       "id": 9,
@@ -367,9 +367,9 @@
       "extraLabel": "SHIFT"
     },
     {
-      "keyCode": 49721,
-      "label": "ENTER",
-      "extraLabel": "ALT/"
+      "keyCode": 53988,
+      "label": "Enter",
+      "extraLabel": "SUPER"
     },
     {
       "keyCode": 53986,
