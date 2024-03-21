@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Shortcuts"
     },
     {
       "id": 6,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "L9"
+      "name": "Mirror"
     },
     {
       "id": 9,
@@ -307,9 +307,9 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 260,
-      "label": "A",
-      "extraLabel": "C+"
+      "keyCode": 53875,
+      "label": "CE,H ",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 333,
@@ -317,10 +317,10 @@
       "extraLabel": "C+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 0,
@@ -367,21 +367,27 @@
       "extraLabel": "C+A+"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LED"
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Next"
     },
     {
       "keyCode": 17492,
@@ -395,9 +401,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 225,
@@ -519,7 +526,7 @@
     2,
     13,
     12,
-    12,
+    15,
     15,
     11,
     1,
