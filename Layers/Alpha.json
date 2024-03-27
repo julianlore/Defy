@@ -43,7 +43,7 @@
     },
     {
       "id": 7,
-      "name": "L8"
+      "name": "Shift"
     },
     {
       "id": 8,
@@ -194,10 +194,9 @@
       "label": "DEL"
     },
     {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
+      "keyCode": 49168,
+      "label": "8",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 49941,
@@ -273,10 +272,9 @@
       "label": "'"
     },
     {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
+      "keyCode": 49168,
+      "label": "8",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 29,
@@ -343,9 +341,9 @@
       "label": "`"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 17499,
+      "label": "8",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 53981,
@@ -402,10 +400,9 @@
       "extraLabel": "OS/"
     },
     {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
+      "keyCode": 49168,
+      "label": "8",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 40,
