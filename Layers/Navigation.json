@@ -43,7 +43,7 @@
     },
     {
       "id": 7,
-      "name": "L8"
+      "name": "Shift"
     },
     {
       "id": 8,
@@ -444,10 +444,8 @@
       "extraLabel": "S+"
     },
     {
-      "keyCode": 224,
-      "label": "CTRL",
-      "extraLabel": "LEFT",
-      "verbose": "Left Control"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 76,
@@ -536,7 +534,7 @@
     11,
     5,
     11,
-    5,
+    8,
     3,
     10,
     6,

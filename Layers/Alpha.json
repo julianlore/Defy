@@ -395,9 +395,9 @@
       "label": "ESC"
     },
     {
-      "keyCode": 49980,
-      "label": "TAB",
-      "extraLabel": "OS/"
+      "keyCode": 17494,
+      "label": "3",
+      "extraLabel": "LOCK"
     },
     {
       "keyCode": 49168,
