@@ -43,7 +43,7 @@
     },
     {
       "id": 7,
-      "name": "L8"
+      "name": "Shift"
     },
     {
       "id": 8,
@@ -248,10 +248,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 2121,
+      "label": "INSERT",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 65535,
@@ -277,24 +276,27 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 30,
-      "label": "1"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 31,
-      "label": "2"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 32,
-      "label": "3"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 33,
-      "label": "4"
-    },
-    {
-      "keyCode": 34,
-      "label": "5"
+      "keyCode": 53873,
+      "label": "SupF ",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 65535,
@@ -321,24 +323,38 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 35,
-      "label": "6"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 36,
-      "label": "7"
+      "keyCode": 53877,
+      "label": "++Yea",
+      "extraLabel": "MACRO"
     },
     {
-      "keyCode": 37,
-      "label": "8"
+      "keyCode": 53876,
+      "label": "Year",
+      "extraLabel": "MACRO"
     },
     {
-      "keyCode": 38,
-      "label": "9"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 39,
-      "label": "0"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -549,11 +565,11 @@
     5,
     15,
     15,
-    2,
-    2,
-    2,
-    2,
-    2,
+    15,
+    15,
+    15,
+    5,
+    15,
     15,
     11,
     15,
@@ -579,16 +595,16 @@
     15,
     5,
     15,
-    15,
+    13,
     15,
     5,
     15,
     15,
-    2,
-    2,
-    2,
-    2,
-    2,
+    15,
+    15,
+    15,
+    8,
+    8,
     15,
     15,
     15,
