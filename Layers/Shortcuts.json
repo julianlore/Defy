@@ -282,16 +282,14 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53879,
+      "label": "CAH A",
+      "extraLabel": "MACRO"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53878,
+      "label": "Alt+T",
+      "extraLabel": "MACRO"
     },
     {
       "keyCode": 53873,
@@ -566,8 +564,8 @@
     15,
     15,
     15,
-    15,
-    15,
+    3,
+    3,
     5,
     15,
     15,
