@@ -152,9 +152,9 @@
       "verbose": "Page Up"
     },
     {
-      "keyCode": 591,
-      "label": "→",
-      "extraLabel": ""
+      "keyCode": 20560,
+      "label": "FORW.",
+      "extraLabel": "M.Btn"
     },
     {
       "keyCode": 0,
@@ -235,9 +235,9 @@
       "verbose": "Page Down"
     },
     {
-      "keyCode": 592,
-      "label": "←",
-      "extraLabel": ""
+      "keyCode": 20552,
+      "label": "BACK",
+      "extraLabel": "M.Btn"
     },
     {
       "keyCode": 0,

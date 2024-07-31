@@ -66,7 +66,9 @@
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "",
@@ -77,7 +79,9 @@
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "",
@@ -88,7 +92,9 @@
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "",
@@ -99,7 +105,9 @@
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "",
@@ -110,7 +118,9 @@
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "",
@@ -121,7 +131,9 @@
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "",
@@ -213,10 +225,9 @@
       "extraLabel": "MACRO"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 591,
+      "label": "→",
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -239,7 +250,7 @@
     {
       "keyCode": 2310,
       "label": "C",
-      "extraLabel": "C+S+"
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -250,7 +261,7 @@
     {
       "keyCode": 2121,
       "label": "INSERT",
-      "extraLabel": "S+"
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -261,7 +272,7 @@
     {
       "keyCode": 2329,
       "label": "V",
-      "extraLabel": "C+S+"
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -303,10 +314,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 592,
+      "label": "←",
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -484,8 +494,16 @@
     },
     {
       "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 1
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 65535,
@@ -561,14 +579,14 @@
     10,
     5,
     5,
-    15,
+    3,
     15,
     15,
     3,
     3,
     5,
     15,
-    15,
+    3,
     11,
     15,
     15,
