@@ -154,7 +154,7 @@
     {
       "keyCode": 591,
       "label": "→",
-      "extraLabel": "A+"
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
@@ -177,12 +177,12 @@
     {
       "keyCode": 262,
       "label": "C",
-      "extraLabel": "C+"
+      "extraLabel": ""
     },
     {
       "keyCode": 285,
       "label": "Z",
-      "extraLabel": "C+"
+      "extraLabel": ""
     },
     {
       "keyCode": 73,
@@ -197,7 +197,7 @@
     {
       "keyCode": 281,
       "label": "V",
-      "extraLabel": "C+"
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
@@ -237,7 +237,7 @@
     {
       "keyCode": 592,
       "label": "←",
-      "extraLabel": "A+"
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
@@ -260,7 +260,7 @@
     {
       "keyCode": 2121,
       "label": "INSERT",
-      "extraLabel": "S+"
+      "extraLabel": ""
     },
     {
       "keyCode": 224,
@@ -293,7 +293,7 @@
     {
       "keyCode": 2272,
       "label": "CTRL",
-      "extraLabel": "S+"
+      "extraLabel": ""
     },
     {
       "keyCode": 224,
@@ -304,7 +304,7 @@
     {
       "keyCode": 330,
       "label": "HOME",
-      "extraLabel": "C+"
+      "extraLabel": ""
     },
     {
       "keyCode": 53875,
@@ -314,7 +314,7 @@
     {
       "keyCode": 333,
       "label": "END",
-      "extraLabel": "C+"
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -352,19 +352,18 @@
       "extraLabel": "MACRO"
     },
     {
-      "keyCode": 2121,
-      "label": "INSERT",
-      "extraLabel": "S+"
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 2355,
       "label": ";",
-      "extraLabel": "C+S+"
+      "extraLabel": ""
     },
     {
       "keyCode": 844,
       "label": "DEL",
-      "extraLabel": "C+A+"
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -383,7 +382,9 @@
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "LED",
@@ -391,8 +392,16 @@
     },
     {
       "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 1
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 65535,
@@ -414,8 +423,16 @@
     },
     {
       "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 1
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 227,
@@ -441,7 +458,7 @@
     {
       "keyCode": 2275,
       "label": "LEFT LINUX",
-      "extraLabel": "S+"
+      "extraLabel": ""
     },
     {
       "keyCode": 41,
@@ -458,8 +475,16 @@
     },
     {
       "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 1
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 54108,
@@ -528,7 +553,7 @@
     15,
     11,
     1,
-    13,
+    7,
     14,
     8,
     11,

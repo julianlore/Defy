@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "Shortcuts"
     },
     {
       "id": 6,
@@ -43,11 +43,11 @@
     },
     {
       "id": 7,
-      "name": "L8"
+      "name": "Shift"
     },
     {
       "id": 8,
-      "name": "L9"
+      "name": "Mirror"
     },
     {
       "id": 9,
@@ -450,8 +450,16 @@
     },
     {
       "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 1
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 65535,
