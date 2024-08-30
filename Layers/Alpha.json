@@ -195,28 +195,68 @@
     },
     {
       "keyCode": 49168,
-      "label": "8",
-      "extraLabel": "OSL"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 8,
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49941,
       "label": "A",
-      "extraLabel": "OS/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "os",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49703,
       "label": "S",
-      "extraLabel": "ALT/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "alt",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49432,
       "label": "D",
-      "extraLabel": "SHIFT/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "shift",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49178,
       "label": "F",
-      "extraLabel": "CTRL/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "control",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 10,
@@ -241,7 +281,7 @@
     {
       "keyCode": 260,
       "label": "A",
-      "extraLabel": "C+"
+      "extraLabel": ""
     },
     {
       "keyCode": 11,
@@ -250,22 +290,54 @@
     {
       "keyCode": 49182,
       "label": "J",
-      "extraLabel": "CTRL/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "control",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49439,
       "label": "K",
-      "extraLabel": "SHIFT/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "shift",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49696,
       "label": "L",
-      "extraLabel": "ALT/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "alt",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49988,
       "label": ";",
-      "extraLabel": "OS/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "os",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 52,
@@ -273,8 +345,16 @@
     },
     {
       "keyCode": 49168,
-      "label": "8",
-      "extraLabel": "OSL"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 8,
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 29,
@@ -342,8 +422,16 @@
     },
     {
       "keyCode": 17499,
-      "label": "8",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 8
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 53981,
@@ -351,9 +439,8 @@
       "extraLabel": "SUPER"
     },
     {
-      "keyCode": 51773,
-      "label": "TAB",
-      "extraLabel": "L#3/"
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 44,
@@ -361,8 +448,16 @@
     },
     {
       "keyCode": 17451,
-      "label": "2",
-      "extraLabel": "SHIFT"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "shift",
+          "layerNumber": 2
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 53988,
@@ -377,14 +472,24 @@
     {
       "keyCode": 50050,
       "label": "F22",
-      "extraLabel": "OS/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "os",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 17154,
       "label": {
         "key": null,
         "ref": null,
-        "props": {},
+        "props": {
+          "size": "sm"
+        },
         "_owner": null
       },
       "extraLabel": "LED",
@@ -396,13 +501,29 @@
     },
     {
       "keyCode": 17494,
-      "label": "3",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 3
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49168,
-      "label": "8",
-      "extraLabel": "OSL"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 8,
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 40,
@@ -410,8 +531,16 @@
     },
     {
       "keyCode": 49165,
-      "label": "5",
-      "extraLabel": "OSL"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 5,
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 42,
@@ -420,13 +549,29 @@
     },
     {
       "keyCode": 49165,
-      "label": "5",
-      "extraLabel": "OSL"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 5,
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 50781,
       "label": "DEL",
-      "extraLabel": "ALTGR/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "altGr",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     }
   ],
   "colormap": [
