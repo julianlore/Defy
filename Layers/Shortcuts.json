@@ -200,14 +200,15 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 53872,
-      "label": "SupQ ",
-      "extraLabel": "MACRO"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 53871,
-      "label": "SupW ",
-      "extraLabel": "MACRO"
+      "keyCode": 4130,
+      "label": "5",
+      "extraLabel": ""
     },
     {
       "keyCode": 53874,
@@ -215,14 +216,15 @@
       "extraLabel": "MACRO"
     },
     {
-      "keyCode": 53873,
-      "label": "SupF ",
-      "extraLabel": "MACRO"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 53867,
-      "label": "SupT ",
-      "extraLabel": "MACRO"
+      "keyCode": 4129,
+      "label": "4",
+      "extraLabel": ""
     },
     {
       "keyCode": 591,
@@ -287,31 +289,29 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4126,
+      "label": "1",
+      "extraLabel": ""
     },
     {
-      "keyCode": 53879,
-      "label": "AT CA",
-      "extraLabel": "MACRO"
+      "keyCode": 4127,
+      "label": "2",
+      "extraLabel": ""
     },
     {
-      "keyCode": 53878,
-      "label": "Alt+T",
-      "extraLabel": "MACRO"
+      "keyCode": 4128,
+      "label": "3",
+      "extraLabel": ""
     },
     {
-      "keyCode": 53873,
-      "label": "SupF ",
-      "extraLabel": "MACRO"
+      "keyCode": 4129,
+      "label": "4",
+      "extraLabel": ""
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4130,
+      "label": "5",
+      "extraLabel": ""
     },
     {
       "keyCode": 592,
@@ -388,19 +388,19 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 53868,
-      "label": "SupC ",
-      "extraLabel": "MACRO"
+      "keyCode": 4127,
+      "label": "2",
+      "extraLabel": ""
     },
     {
-      "keyCode": 53869,
-      "label": "SupV ",
-      "extraLabel": "MACRO"
+      "keyCode": 4128,
+      "label": "3",
+      "extraLabel": ""
     },
     {
-      "keyCode": 53870,
-      "label": "SupB ",
-      "extraLabel": "MACRO"
+      "keyCode": 4126,
+      "label": "1",
+      "extraLabel": ""
     },
     {
       "keyCode": 65535,
@@ -574,18 +574,18 @@
     10,
     4,
     15,
-    5,
+    15,
     5,
     10,
-    5,
+    15,
     5,
     3,
     15,
     15,
-    3,
-    3,
-    5,
     15,
+    15,
+    15,
+    14,
     3,
     11,
     15,
