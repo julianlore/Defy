@@ -200,10 +200,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4131,
+      "label": "6",
+      "extraLabel": ""
     },
     {
       "keyCode": 4130,
@@ -216,10 +215,9 @@
       "extraLabel": "MACRO"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4132,
+      "label": "7",
+      "extraLabel": ""
     },
     {
       "keyCode": 4129,
@@ -382,10 +380,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 4128,
+      "label": "3",
+      "extraLabel": ""
     },
     {
       "keyCode": 4127,
@@ -574,10 +571,10 @@
     10,
     4,
     15,
-    15,
+    5,
     5,
     10,
-    15,
+    5,
     5,
     3,
     15,
@@ -589,7 +586,7 @@
     3,
     11,
     15,
-    15,
+    5,
     5,
     5,
     5,
