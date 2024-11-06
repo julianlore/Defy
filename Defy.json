@@ -1157,7 +1157,7 @@
     }
   },
   "versions": {
-    "bazecor": "v1.2.7-beta"
+    "bazecor": "v2.0.0-beta.7"
   },
   "backup": [
     {
@@ -1243,6 +1243,14 @@
     {
       "command": "qukeys.overlapThreshold",
       "data": "80"
+    },
+    {
+      "command": "qukeys.minimumHoldTime",
+      "data": "50"
+    },
+    {
+      "command": "qukeys.minimumPriorInterval",
+      "data": "75"
     },
     {
       "command": "macros.map",
