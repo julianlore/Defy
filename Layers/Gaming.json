@@ -150,8 +150,8 @@
       "label": "Q"
     },
     {
-      "keyCode": 26,
-      "label": "W"
+      "keyCode": 22,
+      "label": "S"
     },
     {
       "keyCode": 8,
@@ -236,8 +236,8 @@
       "label": "A"
     },
     {
-      "keyCode": 22,
-      "label": "S"
+      "keyCode": 26,
+      "label": "W"
     },
     {
       "keyCode": 7,
