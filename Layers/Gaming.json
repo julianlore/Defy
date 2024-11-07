@@ -226,10 +226,8 @@
       "verbose": "Left Shift"
     },
     {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
+      "keyCode": 26,
+      "label": "W"
     },
     {
       "keyCode": 4,
@@ -509,7 +507,7 @@
     0,
     6,
     5,
-    5,
+    10,
     3,
     3,
     3,
