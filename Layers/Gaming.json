@@ -226,8 +226,8 @@
       "verbose": "Left Shift"
     },
     {
-      "keyCode": 26,
-      "label": "W"
+      "keyCode": 23,
+      "label": "T"
     },
     {
       "keyCode": 4,
@@ -423,17 +423,17 @@
       "label": "TAB"
     },
     {
+      "keyCode": 26,
+      "label": "W"
+    },
+    {
+      "keyCode": 113,
+      "label": "F22"
+    },
+    {
       "keyCode": 226,
       "label": "LEFT ALT",
       "verbose": "Left Alt"
-    },
-    {
-      "keyCode": 113,
-      "label": "F22"
-    },
-    {
-      "keyCode": 113,
-      "label": "F22"
     },
     {
       "keyCode": 65535,
@@ -507,7 +507,7 @@
     0,
     6,
     5,
-    10,
+    6,
     3,
     3,
     3,
@@ -524,9 +524,9 @@
     1,
     5,
     8,
+    3,
+    10,
     13,
-    10,
-    10,
     15,
     15,
     15,
