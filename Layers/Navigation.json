@@ -129,10 +129,8 @@
       "label": "TAB"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 74,
@@ -189,10 +187,9 @@
       "label": "INSERT"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 70,
+      "label": "PRINT SCRN",
+      "verbose": "Print Screen"
     },
     {
       "keyCode": 281,
@@ -501,7 +498,7 @@
     8,
     8,
     10,
-    15,
+    11,
     9,
     3,
     9,
@@ -537,7 +534,7 @@
     8,
     12,
     5,
-    15,
+    0,
     2,
     10,
     5,
