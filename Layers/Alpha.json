@@ -434,9 +434,17 @@
       }
     },
     {
-      "keyCode": 53981,
-      "label": "Layer",
-      "extraLabel": "SUPER"
+      "keyCode": 17501,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 43,
