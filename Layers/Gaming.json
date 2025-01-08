@@ -423,8 +423,17 @@
       "label": "TAB"
     },
     {
-      "keyCode": 26,
-      "label": "W"
+      "keyCode": 17458,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "shift",
+          "layerNumber": 9
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 113,
@@ -524,7 +533,7 @@
     1,
     5,
     8,
-    3,
+    2,
     10,
     13,
     15,
