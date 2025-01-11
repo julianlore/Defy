@@ -423,14 +423,14 @@
       "label": "TAB"
     },
     {
-      "keyCode": 17456,
+      "keyCode": 49167,
       "label": "",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "type": "shift",
-          "layerNumber": 7
+          "layerNumber": 7,
+          "size": "sm"
         },
         "_owner": null
       }
