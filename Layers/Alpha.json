@@ -556,13 +556,13 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 49165,
+      "keyCode": 49163,
       "label": "",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "layerNumber": 5,
+          "layerNumber": 3,
           "size": "sm"
         },
         "_owner": null
