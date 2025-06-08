@@ -1151,12 +1151,11 @@
           "updateInstructions": "To update the firmware, the keyboard needs a special reset. When the countdown starts, press and hold the Escape key. Soon after the countdown finished, the Neuron's light should start a blue pulsing pattern, and the flashing will proceed. At this point, you should release the Escape key."
         }
       },
-      "wireless": false,
       "chipId": "7570557da320754d"
     }
   },
   "versions": {
-    "bazecor": "v2.0.0"
+    "bazecor": "v2.1.0"
   },
   "backup": [
     {
@@ -1241,15 +1240,15 @@
     },
     {
       "command": "qukeys.overlapThreshold",
-      "data": "80"
+      "data": "100"
     },
     {
       "command": "qukeys.minimumHoldTime",
-      "data": "50"
+      "data": "100"
     },
     {
       "command": "qukeys.minimumPriorInterval",
-      "data": "75"
+      "data": "100"
     },
     {
       "command": "macros.map",
