@@ -335,8 +335,8 @@
       "label": "."
     },
     {
-      "keyCode": 56,
-      "label": "/"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 65535,
