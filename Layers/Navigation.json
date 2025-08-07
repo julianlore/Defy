@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "Mirror"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Mirror"
+      "name": "L9"
     },
     {
       "id": 9,
@@ -462,13 +462,12 @@
       "label": "ESC"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
       "keyCode": 17492,
