@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "Mirror"
     },
     {
       "id": 7,
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "name": "Mirror"
+      "name": "L9"
     },
     {
       "id": 9,
@@ -521,16 +521,12 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 115,
+      "label": "F24"
     },
     {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
+      "keyCode": 114,
+      "label": "F23"
     },
     {
       "keyCode": 65535,
