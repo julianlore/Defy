@@ -545,17 +545,8 @@
       "label": "F24"
     },
     {
-      "keyCode": 17492,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 1
-        },
-        "_owner": null
-      }
+      "keyCode": 114,
+      "label": "F23"
     },
     {
       "keyCode": 40,
@@ -574,8 +565,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 113,
-      "label": "F22"
+      "keyCode": 112,
+      "label": "F21"
     },
     {
       "keyCode": 54108,
@@ -651,7 +642,7 @@
     15,
     15,
     5,
-    11,
+    2,
     10,
     6,
     0,

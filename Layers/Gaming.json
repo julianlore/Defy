@@ -484,10 +484,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 112,
+      "label": "F21"
     },
     {
       "keyCode": 65535,
