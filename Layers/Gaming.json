@@ -459,10 +459,8 @@
       "label": "F23"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 110,
+      "label": "F19"
     },
     {
       "keyCode": 17451,
@@ -478,10 +476,8 @@
       }
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 111,
+      "label": "F20"
     },
     {
       "keyCode": 112,
