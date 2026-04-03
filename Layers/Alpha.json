@@ -538,14 +538,14 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 49165,
+      "keyCode": 17454,
       "label": "",
       "extraLabel": {
         "key": null,
         "ref": null,
         "props": {
-          "layerNumber": 5,
-          "size": "sm"
+          "type": "shift",
+          "layerNumber": 5
         },
         "_owner": null
       }
