@@ -470,17 +470,9 @@
       "label": "DEL"
     },
     {
-      "keyCode": 17492,
-      "label": "",
-      "extraLabel": {
-        "key": null,
-        "ref": null,
-        "props": {
-          "type": "lock",
-          "layerNumber": 1
-        },
-        "_owner": null
-      }
+      "keyCode": 483,
+      "label": "LEFT LINUX",
+      "extraLabel": ""
     },
     {
       "keyCode": 54108,
@@ -552,7 +544,7 @@
     7,
     14,
     8,
-    11,
+    13,
     5,
     11,
     8,
