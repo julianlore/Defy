@@ -149,8 +149,9 @@
       "label": "T"
     },
     {
-      "keyCode": 47,
-      "label": "["
+      "keyCode": 776,
+      "label": "E",
+      "extraLabel": ""
     },
     {
       "keyCode": 0,
