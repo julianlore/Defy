@@ -505,8 +505,9 @@
       "verbose": "Toggle"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 54109,
+      "label": "PAIR.",
+      "extraLabel": "BLUET."
     },
     {
       "keyCode": 17494,
